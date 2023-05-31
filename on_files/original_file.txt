@@ -1,0 +1,2 @@
+entering other text and expecting extra line.
+second line of text added

@@ -1,0 +1,50 @@
+Second order thinking
+
+When thinking of eliminating something, physical, structural, whatever, be 
+sure to first understand the thinking behind why it was put in place. 
+Assuming that many people are lazy at heart (not in a bad way, in the sense 
+that we are not eager to do hard work without good reason), it is unlikely 
+that someone went through the trouble of planning, designing and installing 
+a fence for no reason. What were they aiming to accomplish with the fence 
+in the first place? Understand that before you decide if it should be 
+removed. 
+
+This feels like an important component of via negativa. Conversely, some or 
+maybe a lot of structures and norms are actually born out of this laziness of 
+people. We take the low friction path. Newport argues in A World Without 
+Email that low friction is one of the main reasons that email is so prevalent; 
+it is easy to do. You can't just "get rid of email". First you have to understand 
+what every email is trying to accomplish; 1) exercising agency and 
+communicating an individuals voice, 2) to schedule something, 3) trying to 
+capture and articulate an idea, 3) creating a record of decisions, the CYA 
+email. What could the best way to accomplish this goal be? In the case of 
+email, it turns out that email is total shit for accomplishing these things. 
+Back and forth emails to schedule gets confusing between a bunch of people. 
+Email as a record also makes no sense as it is basically private. If I built a 
+system for scheduling, for capturing the decision process and someone came 
+through and said "We're getting rid of that. Just send an email". They would 
+have failed to consider why the system was in place.
+
+After reading Four Fish by Paul Greenberg I need to consider my gut 
+reaction against fish farming (and admit that I really know much about it). 
+Why does fish farming exist? Certainly, there are big companies trying to 
+make money, and certainly many of those companies are fucking over the 
+small farmers, in the sea and on land. But some of the scientists who 
+studied livestock efficiency (increase the grain/lb of meat) did so out of an 
+earnest and noble quest to eliminate hunger. Fish farming exists to produce 
+salmon meat in a quantity, at a price, that people can feed themselves. And 
+why not wild caught? Those populations are collapsing. Why? Because of a 
+history of dammed rivers and high tech sea fishing. Could the wild runs of 
+fish have fed us all? We tend not to like such seasonality. 
+
+I can�t claim to just get rid of industrial agriculture and livestock farming 
+without acknowledging all the complicated histories, natural and otherwise, 
+that go into the events that have led to our current system. There is a lot of 
+really good intent that has gone into the advances that have led to our 
+current system. And a lot of ignorance, poor thinking, misinformation, greed, 
+dodging responsibility, and capitalist fervor as well. 
+
+Select Influences:
+https://fs.blog/chestertons-fence/ 
+Four Fish
+A World Without Email

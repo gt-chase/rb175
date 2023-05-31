@@ -1,0 +1,19 @@
+<h2>
+  <%= @user_name %>
+</h2>
+
+<h4>Email Addres</h4>
+<p><%= @email %>
+
+<h4>Interests</h4>
+<p><%= @interests.join(", ") %>
+
+<ul>
+  <% @users.keys.each do |person| %>
+    <% unless person == @user_name %>
+    <h4>
+    <a href="<%= person %>"><%= person.to_s.capitalize %></a>
+    </h4>
+  <% end %>
+<% end %>
+</ul>
